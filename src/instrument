@@ -1,0 +1,23 @@
+            <section class="ttm-row about-section bg-img3 clearfix">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <!-- section title -->
+                            <div class="section-title section-title title-style-center_text">
+                                <div class="title-header">
+                                    <h2 class="title">Instrument Enrichment Programme (IE)</h2>
+                                </div>
+                            </div>
+                            <!-- section title end -->
+                        </div>
+                        <div class="col-lg-12 col-xs-12">
+                            <div class="pt-15 pl-35 res-991-pl-0 res-991-pt-30">
+                                <!-- featured-icon-box -->
+                                <p style="color:#000;">The Feuerstein Method is a unique educational technique developed by world-renowned psychologist Reuven Feuerstein. It is a process-based approach, focusing on developing the vitally important – and often overlooked – skill of learning how to learn, subsequently tapping into an individual’s latent intellectual capabilities. Feuerstein Instrumental Enrichment (FIE) is a cognitive intervention program consisting of specially designed instruments, FIE is a series of pencil-and-paper tasks that may be mediated in a classroom, group or individual setting.</P>
+                                <p style="color:#000;">Each series focuses on a different cognitive skill, creating systematic, persistent and structured conditions to engage learners in problem-solving by developing their ability to understand and elaborate information.</P>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- row end -->
+                </div>
+            </section>

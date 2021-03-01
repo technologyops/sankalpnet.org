@@ -1,0 +1,292 @@
+            <!--site-main start-->
+            <div class="site-main">
+                <!--features-section-->
+                <!--features-section end-->
+                <!--introduction-section-->
+                <section class="ttm-row introduction-section clearfix">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <!-- section title -->
+                                <div class="section-title section-title title-style-center_text">
+                                    <div class="title-header">
+                                        <h2 class="title">About Sankalp</h2>
+                                    </div>
+                                </div>
+                                <!-- section title end -->
+                            </div>
+                            <div class="col-lg-5 col-md-7 col-sm-9 mt-0 mx-auto">
+                                <!-- ttm_single_image-wrapper -->
+                                <div class="border mr_60 res-991-mr-0">
+                                    <div class="ttm_single_image-wrapper pt-10 pl-10 pr-10 pb-10">
+                                        <img class="img-fluid lazyload" data-src="/images/portfolio/09.jpg" alt="image">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-7 col-md-12 col-sm-12">
+                                <div class="pt-10 pl-80 res-991-pl-0 res-991-pt-30">
+                                    <!-- section title -->
+                                    <!-- section title end -->
+                                    <p style="color:#000;">Born out of deep concern for children/persons with Autism Spectrum Disorder (ASD) and Specific Learning Disabilities (SLD), Sankalp an Institution involved in remedial instruction to children with disabilities like Dyslexia (Learning Disability) and Autism Spectrum Disorder was set up in 1999 at Chennai under the auspices of the “Sankalp Trust”. The Sankalp Trust is a non-profit organization with 3 Founder Trustees and Four Additional Trustees who are all professionals. Sankalp is a Non-Profitable Charitable Trust and enjoys the benefit of 80G under the income tax rules. The Trust is registered under the National Trust and Commissioner for Disability under Government of Tamil Nadu.</p>
+                                </div>
+                            </div>
+                            <div class="col-lg-12 col-md-12 col-sm-12">
+                                <p style="color:#000;">
+                                    <b>Currently the institution operates from two separate premises.</b>
+                                </p>
+                                <p style="color:#000;">
+                                    <i class="fa fa-chevron-right"></i>
+                                    The Open School for children with Specific Learning Disability (SLD) 
+                                <p>
+                                <p style="color:#000;">
+                                    <i class="fa fa-chevron-right"></i>
+                                    The Learning Centre for children with Autism Spectrum Disorder (ASD) which also includes a Vocational Skill Training Unit.
+                                </p>
+                                <p style="color:#000;">Sankalp Trust is happy to announce the opening of its Third Centre: The Sankalp Special Needs School for children with ASD, SLD and Global Developmental Delays (GDD)</p>
+                                <p style="color:#000;">The Founder Directors Mrs. Lakshmi Krishnakumar, Mrs. Sulata Ajit, and Mrs. Subhashini Rao proactively ensure that the institution has a well-rounded faculty that includes Remedial Teachers, Special Educators, Occupational Therapists, Speech Therapists, Vocational trainers and assisting staff. Profiles of the faculty bear a host of competencies that stem from a wide range of educational backgrounds and experience enabling the institution to cater to the varying challenges and developmental requirements of the children under their care. At Sankalp, the teacher student ratio is 1:3. Sankalp conducts Teacher Training programs in Learning Disability and Autism, with the aim of building a cadre of highly trained teachers.</p>
+                                <p style="color:#000;">
+                                    <b>Just as a slow-moving caterpillar transforms into a beautiful butterfly, Sankalp believes that special children, given the right inputs, will transform into bright, confident and self-reliant young adults. Sankalp wants to be the cocoon for these children. A truly different special school.</b>
+                                </p>
+                            </div>
+                            <br>
+                            <br>
+                            <div class="col-lg-12 mr_60">
+                                <!-- section title -->
+                                <h3>Profile Of Sankalp – Trustees and Directors :</h3>
+                                <table class="table table-dark">
+                                    <thead>
+                                        <tr>
+                                            <th>NAME     </th>
+                                            <th>Profession</th>
+                                            <th>Position </th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>Dr. Ajit Mullasari  </td>
+                                            <td>
+                                                Director- Cardiology <br>
+                                                Institute of Cardio Vascular diseases<br>Madras Medical Mission
+                                            </td>
+                                            <td>Managing and Founder Trustee</td>
+                                        </tr>
+                                        <tr>
+                                            <td>N.R. Krishna Kumar </td>
+                                            <td>
+                                                CEO and Domain Director <br>Karminn Consultancy Network (P) Ltd
+                                            </td>
+                                            <td>Founder Trustee</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Y.V. Rao    </td>
+                                            <td>
+                                                Regional Manager – Retired<br>Syndicate Bank
+                                            </td>
+                                            <td>Founder Trustee</td>
+                                        </tr>
+                                        <tr>
+                                            <td>V.K. Raja Krishnan                                                                          </td>
+                                            <td>
+                                                Chief Executive <br>Tristar Containers (P) Ltd,
+                                            </td>
+                                            <td>Trustee</td>
+                                        </tr>
+                                        <tr>
+                                            <td>K. Radhakrishnan    </td>
+                                            <td>
+                                                CEO (Aligned Business)<br>Partners, 
+Mumbai.
+                                            </td>
+                                            <td>Trustee</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Vijay Kumar Vaddadi      </td>
+                                            <td>
+                                                Special Representative    <br>Netherland Embassies 
+ 
+                                            </td>
+                                            <td>Trustee</td>
+                                        </tr>
+                                        <tr>
+                                            <td>K.F. Manavalan     </td>
+                                            <td>Advocate  -  Madras High Court</td>
+                                            <td>Trustee</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Subhashini Rao    </td>
+                                            <td>Founder Director – Administration 
+</td>
+                                            <td>Founder Director</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Sulata Ajit   </td>
+                                            <td>
+                                                Founder Director – Special Education <br>(Autism Spectrum Disorder)
+                                            </td>
+                                            <td>Founder Director</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Lakshmi Krishnakumar  </td>
+                                            <td>
+                                                Founder Director - Psychologist, <br>Assessor and Trainer (Specific Learning Disability)
+                                            </td>
+                                            <td>Founder Director</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                        <!-- row end -->
+                    </div>
+                </section>
+                <!--introduction-section-->
+                <!--skill-section-->
+                <!--course-section-->
+                <!--course-section-->
+                <!--event-section-->
+                <!--event-section-->
+                <!--broken-section-->
+                <section class="ttm-row broken-section bg-layer clearfix sec">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-6">
+                                <div class="ttm-bg ttm-col-bgcolor-yes ttm-left-span ttm-bgcolor-skincolor spacing-1">
+                                    <div class="ttm-col-wrapper-bg-layer ttm-bg-layer"></div>
+                                    <div class="row slick_slider" data-slick='{"slidesToShow": 1, "slidesToScroll": 1, "arrows":false, "autoplay":true, "centerMode":true, "centerPadding":0, "infinite":true, "initialSlide":2, "responsive": [{"breakpoint":870,"settings":{"slidesToShow": 1}} , {"breakpoint":525,"settings":{"slidesToShow": 1}}]}'>
+                                        <div class="ttm-box-col-wrapper col-lg-12">
+                                            <!-- testimonials -->
+                                            <div class="testimonials ttm-testimonial-box-view-style1">
+                                                <div class="testimonial-content">
+                                                    <h2 class="title">Testimonials </h2>
+                                                    <blockquote>"This school is one my main backbone which motivated me to do what I want do and not what others told me to do" - Alumnus </blockquote>
+                                                </div>
+                                            </div>
+                                            <!-- testimonials end -->
+                                        </div>
+                                        <div class="ttm-box-col-wrapper col-lg-12">
+                                            <!-- testimonials -->
+                                            <div class="testimonials ttm-testimonial-box-view-style1">
+                                                <div class="testimonial-content">
+                                                    <h2 class="title">Testimonials </h2>
+                                                    <blockquote>I like both extracurricular activities and academics in Sankalp - Student</blockquote>
+                                                </div>
+                                            </div>
+                                            <!-- testimonials end -->
+                                        </div>
+                                        <div class="ttm-box-col-wrapper col-lg-12">
+                                            <!-- testimonials -->
+                                            <div class="testimonials ttm-testimonial-box-view-style1">
+                                                <div class="testimonial-content">
+                                                    <h2 class="title">Testimonials </h2>
+                                                    <blockquote>Sankalp is the only special school to my knowledge that is providing employment-ready opportunities for a child by including the mothers also in its initiative. This is a great advantage for us parents. - Parent</blockquote>
+                                                </div>
+                                            </div>
+                                            <!-- testimonials end -->
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="mt-60 res-991-mt-0">
+                                    <div class="ttm-col-bgcolor-yes col-bg-img-six ttm-bgcolor-darkgrey ttm-col-bgimage-yes ttm-bg ttm-right-span spacing-2">
+                                        <div class="ttm-col-wrapper-bg-layer ttm-bg-layer">
+                                            <div class="ttm-col-wrapper-bg-layer-inner"></div>
+                                        </div>
+                                        <div class="layer-content">
+                                            <div class="mt_50">
+                                                <!-- slick_slider -->
+                                                <div class="row slick_slider" data-slick='{"slidesToShow": 1, "slidesToScroll": 1, "arrows":false, "autoplay":true, "centerMode":true, "centerPadding":0, "infinite":true, "initialSlide":2, "responsive": [{"breakpoint":870,"settings":{"slidesToShow": 1}} , {"breakpoint":55,"settings":{"slidesToShow": 1}}]}'>
+                                                    <div class="ttm-box-col-wrapper col-lg-12">
+                                                        <!-- testimonials -->
+                                                        <div class="testimonials ttm-testimonial-box-view-style1">
+                                                            <div class="testimonial-content">
+                                                                <div class="testimonial-avatar">
+                                                                    <div class="testimonial-img">
+                                                                        <img class="img-center lazyload" data-src="/images/testimonial/mission.png" alt="testimonial-img">
+                                                                    </div>
+                                                                </div>
+                                                                <h3>Mission </h3>
+                                                                <blockquote>
+                                                                    <b>*</b>
+                                                                    To help create a confident child.<br>
+                                                                    <br>
+                                                                    <b>*</b>
+                                                                    Provide intervention in education and skill training at all levels from Early Childhood to Adulthood through simulated graded work/learning situations.<br>
+                                                                    <br>
+                                                                    <b>*</b>
+                                                                    Improve learning and working ability thus helping the child succeed in their pursuits.<br>
+                                                                    <br>
+                                                                    <b>*</b>
+                                                                    Upgrade knowledge and apply it in the teaching methodologies.<br>
+                                                                    <br>
+                                                                    <b>*</b>
+                                                                    Build lasting relationships with the students, parents and associates.
+                                                                </blockquote>
+                                                            </div>
+                                                        </div>
+                                                        <!-- testimonials end -->
+                                                    </div>
+                                                    <div class="ttm-box-col-wrapper col-lg-12">
+                                                        <!-- testimonials -->
+                                                        <div class="testimonials ttm-testimonial-box-view-style1">
+                                                            <div class="testimonial-content">
+                                                                <div class="testimonial-avatar">
+                                                                    <div class="testimonial-img">
+                                                                        <img class="img-center lazyload" data-src="/images/testimonial/vision.png" alt="testimonial-img">
+                                                                    </div>
+                                                                </div>
+                                                                <h3>Vision  </h3>
+                                                                <blockquote>"We aim to create a learning environment for persons with Autism Spectrum Disorder and Specific Learning Disability to be participatory members of society ."</blockquote>
+                                                            </div>
+                                                        </div>
+                                                        <!-- testimonials end -->
+                                                    </div>
+                                                    <div class="ttm-box-col-wrapper col-lg-12">
+                                                        <!-- testimonials -->
+                                                        <div class="testimonials ttm-testimonial-box-view-style1">
+                                                            <div class="testimonial-content">
+                                                                <div class="testimonial-avatar">
+                                                                    <div class="testimonial-img">
+                                                                        <img class="img-center lazyload" data-src="/images/testimonial/values.png" alt="testimonial-img">
+                                                                    </div>
+                                                                </div>
+                                                                <h3>Values  </h3>
+                                                                <blockquote>
+                                                                    <b>*</b>
+                                                                    To be sensitive to the concerns of 
+parents and work together to earn their trust.<br>
+                                                                    <br>
+                                                                    <b>*</b>
+                                                                    To trust the inner working of every mind, young 
+and old.<br>
+                                                                    <br>
+                                                                    <b>*</b>
+                                                                    To honor each learner with respect and 
+dignity, as each one has a different style 
+and pace of learning..
+                                                                </blockquote>
+                                                            </div>
+                                                        </div>
+                                                        <!-- testimonials end -->
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <!--broken-section end-->
+                <br>
+                <br>
+                <!--client-section-->
+                <!--client-section end-->
+                <!--procedure-section-->
+                <!--blog-section-->
+                <!--blog-section end-->
+                <!--cta-section-->
+                <!--cta-section end-->
+            </div>
+            <!--site-main end-->
