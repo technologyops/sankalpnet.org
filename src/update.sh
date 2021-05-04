@@ -1,6 +1,7 @@
 #!/bin/sh
 
 for f in about \
+comingsoon \
 admision01 \
 admision1 \
 admision2 \
