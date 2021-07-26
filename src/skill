@@ -1,0 +1,99 @@
+            <section class="ttm-row about-section  clearfix">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <!-- section title -->
+                            <div class="section-title section-title title-style-center_text">
+                                <div class="title-header">
+                                    <h2 class="title">Sahayika - (Skill Training  Unit) </h2>
+                                </div>
+                            </div>
+                            <!-- section title end -->
+                        </div>
+                        <div class="col-lg-6 col-xs-6 star">
+                            <div class="pt-15 pl-35 res-991-pl-0 res-991-pt-30">
+                                <h3 style="color:#fff;background-color:#BF1F30; padding:5px 0px 5px 5px">What is SAHAYIKA?</h3>
+                                <p style="color:#000;">SAHAYIKA is a comprehensive IN- HOUSE SKILLS TRAINING module with a fully developed curriculum for students from 14 to 18 years. This is a structured course conducted in a simulated setting focusing towards</p>
+                                <p style="color:#000;">
+                                    <i class="fa fa-chevron-right"></i>
+                                    Job Work
+                                </p>
+                                <p style="color:#000;">
+                                    <i class="fa fa-chevron-right"></i>
+                                    Full-fledged production and packing
+                                </p>
+                                <p style="color:#000;">
+                                    <i class="fa fa-chevron-right"></i>
+                                    Manufacture of corporate level gifts
+                                </p>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-xs-6 star">
+                            <img class="img-fluid lazyload" data-src="images/portfolio/017.jpg" alt="image">
+                        </div>
+                        <div class="col-lg-12 col-xs-12">
+                            <div class="pt-15 pl-35 res-991-pl-0 res-991-pt-30">
+                                <!-- featured-icon-box -->
+                                <h3 style="color:#fff;background-color:#BF1F30; padding:5px 0px 5px 5px">Objectives of the Course</h3>
+                                <p style="color:#000;">To ensure by the end of the training, the candidate can acquire an adequate amount of skills to become economically independent</p>
+                                <p style="color:#000;">To become a socially accepted person in the community and society</p>
+                                <h3 style="color:#fff;background-color:#BF1F30; padding:5px 0px 5px 5px">Methodology</h3>
+                                <p style="color:#000;">The methodology adopted to impart the different skills is particularly appropriate for the candidates whose academic levels may be limited as well as for those whose functional competency is high with a passion to learn applicable skills.</p>
+                                <p style="color:#000;">
+                                    <i class="fa fa-chevron-right"></i>
+                                    The course is based on a cooperative learning method in a simulated setting and is designed to apply practical work skills that enhance learning while working.
+                                </p>
+                                <p style="color:#000;">
+                                    <i class="fa fa-chevron-right"></i>
+                                    The trainees are placed in a comfortable, stress-free environment.
+                                </p>
+                                <p style="color:#000;">
+                                    <i class="fa fa-chevron-right"></i>
+                                    Students get graded exposure to all the areas of Production/ Manufacture, Assembly and Packing, according to their individual level of performance.
+                                </p>
+                                <h3 style="color:#fff;background-color:#BF1F30; padding:5px 0px 5px 5px">Resources</h3>
+                                <p style="color:#000;">Sahayika has  fully trained resource personnel, in the form of trainers, facilitators and moderators with vast experience in the field of Special Education and Rehabilitation</p>
+                                <h3 style="color:#fff;background-color:#BF1F30; padding:5px 0px 5px 5px">Duration</h3>
+                                <p style="color:#000;">The course is scheduled within the normal school timings, Monday through Friday. The duration of training for each student will vary based on their individual potential.</p>
+                                <h3 style="color:#fff;background-color:#BF1F30; padding:5px 0px 5px 5px">Equipment</h3>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-xs-6 star">
+                            <div class="pt-15 pl-35 res-991-pl-0 res-991-pt-30">
+                                <p style="color:#000;">
+                                    <i class="fa fa-chevron-right"></i>
+                                    Specially designed aids for skill development
+                                </p>
+                                <p style="color:#000;">
+                                    <i class="fa fa-chevron-right"></i>
+                                    Comfortable, Ergonomically designed furniture and free flow of work space
+                                </p>
+                                <p style="color:#000;">
+                                    <i class="fa fa-chevron-right"></i>
+                                    Child safe materials
+                                </p>
+                                <p style="color:#000;">
+                                    <i class="fa fa-chevron-right"></i>
+                                    Machinery and tools with adaptations for trouble free functioning
+                                </p>
+                                <p style="color:#000;">
+                                    <i class="fa fa-chevron-right"></i>
+                                    Designer products that match with the current market trend both locally and globally
+                                </p>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-xs-6 star">
+                            <img class="img-fluid lazyload" data-src="images/portfolio/019.jpg" alt="image">
+                        </div>
+                        <div class="col-lg-12 col-xs-12 star">
+                            <div class="pt-15 pl-35 res-991-pl-0 res-991-pt-30">
+                                <h3 style="color:#fff;background-color:#BF1F30; padding:5px 0px 5px 5px">Evaluation</h3>
+                                <p style="color:#000;">A half-yearly evaluation on the program of skills development is conducted with proper and measurable indicators.</p>
+                                <p style="color:#000;">SPinS (Sahayika Products in Sankalp) products are the result of the training imparted in Sahayika.</p>
+                                <!-- featured-icon-box -->
+                            </div>
+                        </div>
+                    </div>
+                    <!-- row end -->
+                </div>
+            </section>

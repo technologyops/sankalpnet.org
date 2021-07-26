@@ -1,0 +1,51 @@
+            <section class="ttm-row about-section  clearfix">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <!-- section title -->
+                            <div class="section-title section-title title-style-center_text">
+                                <div class="title-header">
+                                    <h2 class="title">Learning centre for Autism</h2>
+                                </div>
+                            </div>
+                            <!-- section title end -->
+                        </div>
+                        <div class="col-lg-6 col-xs-6">
+                            <img class="img-fluid lazyload" data-src="images/team-member/l2.jpg" alt="image">
+                        </div>
+                        <div class="col-lg-6 col-xs-6">
+                            <img class="img-fluid lazyload" data-src="images/team-member/l3.jpg" alt="image">
+                        </div>
+                        <div class="col-lg-12 col-xs-12">
+                            <div class="pt-15 pl-35 res-991-pl-0 res-991-pt-30">
+                                <!-- featured-icon-box -->
+                                <p style="color:#000;">
+                                    The Learning Centre for Children with Autism Spectrum Disorders (ASD), is an exclusive school catering to the needs of children at all levels of ASD. The school balances academics with skill training and guides the student to be self-reliant. <br>Diverse learning approaches are implemented to help students cope with their condition. 
+                                </p>
+                                <h6 style="font-size: 16px; padding:5px; color:#fff;background-color:#bf1e2e;">Academics: </h6>
+                                <p style="color:#000;">Each child is assessed after which a detailed Learning Profile is prepared. Based on this an exclusive IEP (Individual Education Plan) is designed, delivered and monitored by a team of expert Special Educators and trained personnel. The centre focuses on developing a student’s communication skills, social skills and activities of daily living along with academics. Children who are able to cope with academics follow a particular graded curriculum or syllabus and the others are trained in Functional Living Skills and Activity Based Learning(ABL). Students above the age of 14 years who can pursue academic curriculum are trained to appear for the National Institute of Open Schooling (NIOS) Secondary or Higher Secondary Examination. 
+The holistic approach followed by us reduces symptoms and helps the children to function better hence, apart from ‘Academics’ keen attention is paid to:</p>
+                            </div>
+                        </div>
+                        <div class="col-lg-5 col-xs-5">
+                            <div class="pt-15 pl-35 res-991-pl-0 res-991-pt-30">
+                                <h6 style="font-size: 16px;">Structured Teaching</h6>
+                                <h6 style="font-size: 16px;">Activity Based Learning (ABL)</h6>
+                                <h6 style="font-size: 16px;">Social Stories</h6>
+                                <h6 style="font-size: 16px;">Hand to Heart (Essential Life Skill and Functional Training)</h6>
+                                <h6 style="font-size: 16px;">Self Help Skills (Grooming and Activities of Daily Living – ADL)</h6>
+                                <h6 style="font-size: 16px;">Music</h6>
+                                <h6 style="font-size: 16px;">Art, Craft and Skill training</h6>
+                                <h6 style="font-size: 16px;">Physical Fitness</h6>
+                                <h6 style="font-size: 16px;">Skating</h6>
+                                <h6 style="font-size: 16px;">Yoga and other Extra-curricular activities</h6>
+                                <h6 style="font-size: 16px;">Story Telling</h6>
+                            </div>
+                        </div>
+                        <div class="col-lg-7 col-xs-7">
+                            <img class="img-fluid lazyload" data-src="images/portfolio/018.jpg" alt="image">
+                        </div>
+                    </div>
+                    <!-- row end -->
+                </div>
+            </section>

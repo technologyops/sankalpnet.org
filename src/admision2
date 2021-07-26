@@ -1,0 +1,47 @@
+            <section class="ttm-row about-section bg-img3 clearfix">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <!-- section title -->
+                            <div class="section-title section-title title-style-center_text">
+                                <div class="title-header">
+                                    <h2 class="title">Open School For Specific Learning Disabilities</h2>
+                                </div>
+                            </div>
+                            <!-- section title end -->
+                        </div>
+                        <div class="col-lg-12 col-xs-12">
+                            <div class="pt-15 pl-35 res-991-pl-0 res-991-pt-30 radha">
+                                <!-- featured-icon-box -->
+                                <h3>Procedure:</h3>
+                                <p>
+                                    <i class="fa fa-chevron-right"></i>
+                                    Sankalp – The Open School for persons with Specific Learning Disabilities look into the process of admission for the new academic year between the months of January and April.
+                                </P>
+                                <p>
+                                    <i class="fa fa-chevron-right"></i>
+                                    When a parent seeks admission to The Open School they are interviewed to get some background information of the child.
+                                </P>
+                                <p>
+                                    <i class="fa fa-chevron-right"></i>
+                                    The child is then assessed by trained psychologists to determine the levels of disability.
+                                </P>
+                                <p>
+                                    <i class="fa fa-chevron-right"></i>
+                                    A report and feedback is given to the parent.
+                                </P>
+                                <p>
+                                    <i class="fa fa-chevron-right"></i>
+                                    A five day classroom observation follows the feedback.
+                                </P>
+                                <p>
+                                    <i class="fa fa-chevron-right"></i>
+                                    The child is then admitted into a suitable group based on the collective inputs of the teachers.
+                                </P>
+                                <h4>Enquiries for admissions is open throughout the year.</h4>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- row end -->
+                </div>
+            </section>
