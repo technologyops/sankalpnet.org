@@ -76,10 +76,10 @@
 
 
 
+.rocb h2{padding:375px 0px 0px 600px   ;}
 
 
-
-
+.roca h2{padding:455px 0px 0px 0px   ;}
 
 
 .roc h2{padding:0px 0px 0px   455px;}
@@ -1809,6 +1809,7 @@ ul.social-icons {
     border: none;
     z-index: 1;
     position: relative;
+	padding-left: 9px;
 }
 
 .social-icons li {
@@ -1820,9 +1821,10 @@ ul.social-icons {
 }
 
 .social-icons li a {
-    display: block;
-    min-width: 26px;
+      display: block;
+    min-width: 50px;
     text-align: center;
+    font-size: 40px;
 }
 
 .social-icons.circle li>a {
@@ -2601,14 +2603,14 @@ ul.social-icons {
 }
 
 .banner-slider .banner-caption .banner-text h2 {
-    line-height: 80px;
+    line-height: 40px;
     letter-spacing: 0px;
     font-weight: 700;
-    font-size: 45px;
+    font-size: 27px;
     margin-bottom: 0;
     overflow: hidden;
-	color: #be1d2d;
-	-webkit-text-stroke: 1px #fff;
+	color: #ffffff;
+	/*-webkit-text-stroke: 1px #fff;*/
 }
 
 .banner-slider .banner-caption .banner-text .text {
@@ -4029,3 +4031,19 @@ section.error-404 .page-content p {
     height: 410px;
     width: 100%;
 }
+
+
+
+.ttm_image h6{    padding-left: 44px;}
+
+
+
+
+
+.ttm-box-view-overlay h5{ font-size: 16px;}
+
+
+
+
+
+
