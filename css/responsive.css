@@ -139,7 +139,7 @@
 		content: unset;
 		box-shadow: unset;
 	}
-	.ttm-header-style-01 #site-header-menu .site-navigation ul.menu > li >a { padding: 32px 8px 41px 18px;   color: #f30820; }
+	.ttm-header-style-01 #site-header-menu .site-navigation ul.menu > li >a { padding: 32px 5px 41px 10px;   color: #f30820; }
 	.ttm-header-style-01 #site-header-menu .ttm-stickable-header.fixed-header .site-navigation ul.menu > li >a{
 	    padding: 36px 10px;
 		    color: #f30820;

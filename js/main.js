@@ -18,6 +18,59 @@
 13. Back to top 
 
  =============== */
+function myFunction() {
+  document.getElementById("radha").innerHTML = ' <iframe height="1000" id="iframepdf" src="images/myexpericance.pdf"></iframe>';
+}
+
+function apeksha() {
+  document.getElementById("raha").innerHTML = ' <iframe height="1000" id="iframepdf" src="images/aaa.pdf"></iframe>';
+}
+
+
+
+
+function artical1() {
+  document.getElementById("articals").innerHTML = ' <iframe height="1000" id="iframepdf" src="images/sflartical1.pdf"></iframe>';
+}
+
+function artical2() {
+  document.getElementById("articals").innerHTML = ' <iframe height="1000" id="iframepdf" src="images/sflartical2.pdf"></iframe>';
+}
+
+
+
+
+
+
+function news1() {
+  document.getElementById("articals").innerHTML = ' <iframe height="1000" id="iframepdf" src="images/new2018.pdf"></iframe>';
+}
+
+function news2() {
+  document.getElementById("articals").innerHTML = ' <iframe height="1000" id="iframepdf" src="images/news2019.pdf"></iframe>';
+}
+
+
+
+function annual1() {
+  document.getElementById("articals").innerHTML = ' <iframe height="1000" id="iframepdf" src="images/annualreport2020-21.pdf"></iframe>';
+}
+
+function annual2() {
+  document.getElementById("articals").innerHTML = ' <iframe height="1000" id="iframepdf" src="images/annualreportof2019-20.pdf"></iframe>';
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 (function($) {
