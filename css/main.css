@@ -2741,8 +2741,8 @@ ul.social-icons {
 @media (max-width: 480px) {
     .banner-slide > img,
     .banner-slider-overlay .banner-slide > img {
-        height: 340px;
-        width: 100%;
+       
+        width: 100%!important;
     }
     .banner-slider .banner-caption .banner-text h2 {
         font-size: 35px;
@@ -2758,6 +2758,61 @@ ul.social-icons {
     margin-top: 25px;
     }
 }
+
+
+
+@media only screen and (max-width: 600px) {
+  .banner-slide > img,
+    .banner-slider-overlay .banner-slide > img {
+       
+        width: 100%!important;
+		height:auto!important;
+    }
+    .banner-slider .banner-caption .banner-text h2 {
+        font-size: 35px;
+        line-height: 45px;
+    }
+    .banner-slider .banner-caption .banner-text h3 {
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .banner-text img,
+    .text {
+        display: block;
+    margin-top: 25px;
+    }
+	
+	
+	.rocb h2{padding:0px;}
+
+
+.roca h2{padding:0px;}
+
+
+.roc h2{padding:0px;}
+
+
+.roc a{padding:0px;}
+
+.roc2 h2{padding:0px;}
+
+
+.roc2 a{margin:0px!important;}
+
+.banner-slider .banner-caption .banner-text h2 {
+    line-height: 40px;
+    letter-spacing: 0px;
+    font-weight: 700;
+    font-size: 15px;
+    margin-bottom: 0;
+    overflow: hidden;
+	color: #ffffff;
+	/*-webkit-text-stroke: 1px #fff;*/
+}
+	
+}
+
+
 
 
 /* ===============================================
