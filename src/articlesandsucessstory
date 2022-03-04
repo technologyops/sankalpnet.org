@@ -1,0 +1,159 @@
+                <div class="container">
+                    <!-- row -->
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <!-- section title -->
+                            <div class="section-title title-style-center_text">
+                                <div class="title-header">
+                                    <h2 class="title">Articles & Success stories</h2>
+                                </div>
+                            </div>
+                            <!-- section title end -->
+                        </div>
+                    </div>
+                    <!-- row end-->
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="ttm-tabs tabs-style-01" data-effect="fadeIn">
+                                <ul class="tabs clearfix">
+                                    <li class="tab active">
+                                        <a href="#">Articles</a>
+                                    </li>
+                                    <li class="tab">
+                                        <a href="#">Success Stories</a>
+                                    </li>
+
+                                    <!--   <li class="tab"><a href="#">ALLIED THERAPY</a></li>-->
+                                </ul>
+                                <div class="content-tab">
+
+
+
+                <div class="content-inner">
+
+
+
+                 <div class="row">
+                        <div class="col-lg-12">
+                            <!-- section title -->
+                            <div class="section-title section-title title-style-center_text">
+                                <div class="title-header">
+                                    <h2 class="title">Articles</h2>
+                                </div>
+                            </div>
+                            <!-- section title end -->
+                        </div>
+
+                        <div class="col-lg-12 col-xs-12">
+                            <div class="pt-15 pl-35 res-991-pl-0 res-991-pt-30 text-center">
+                                <!-- featured-icon-box -->
+
+                                <h3 onclick="myFunction2()" style="color:#fff;background-color:#BF1F30; padding:5px 0px 5px 5px">Parent and Teacher Perspectives on Differentiated Instruction for Inclusion of Children with Autism in India - By Dr Sulata Ajit</h3>
+                <a onclick="myFunction2()" class="ttm-btn ttm-btn-size-md ttm-btn-shape-square ttm-btn-style-border ttm-btn-color-white mr-3" style="color:#fff; background-color:#bf1f30;">Read more</a>
+                <div id="sulataajit"> </div>
+
+
+                            </div>
+                        </div>
+
+                        <div class="col-lg-12 col-xs-12">
+                            <div class="pt-15 pl-35 res-991-pl-0 res-991-pt-30 text-center">
+                                <!-- featured-icon-box -->
+
+                                <h3 onclick="myFunction()" style="color:#fff;background-color:#BF1F30; padding:5px 0px 5px 5px">My experience with children with Dyspraxia    -By Lakshmi Krishnakumar</h3>
+                <a onclick="myFunction()" class="ttm-btn ttm-btn-size-md ttm-btn-shape-square ttm-btn-style-border ttm-btn-color-white mr-3" style="color:#fff; background-color:#bf1f30;">Read more</a>
+                <div id="radha"> </div>
+
+
+                            </div>
+                        </div>
+
+
+                    </div>
+                    <!-- row end -->
+
+                     </div>
+
+
+
+
+
+
+
+
+                                    <!-- content-inner -->
+                                    <div class="content-inner">
+
+                      <div class="row">
+
+                     <div class="ttm-box-col-wrapper col-lg-12 col-md-12 col-sm-12 campus">
+                                                <!-- featured-imagebox -->
+                                                <h4 class="text-center">PATIENCE, PERSEVERANCE AND POSITIVITY EQUALS SUCCESS</h4>
+                                            </div>
+
+
+                      <div class="col-lg-7 col-md-7 col-sm-9 mt-0 mx-auto">
+                                <!-- ttm_single_image-wrapper -->
+                                <div class="border mr_60 res-991-mr-0">
+                                    <div class="ttm_single_image-wrapper pt-10 pl-10 pr-10 pb-10">
+                                        <img class="img-fluid lazyload" src="images/portfolio/Apeksha2020.jpg" alt="image">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-5 col-md-12 col-sm-12">
+              <br>
+               <h4 class="text-center">Apeksha's Success Story </h4>
+                               <p>At age 5, Apeksha, a bright young girl, started schooling at a prominent primary school in central Chennai. A few years in, her parents realised that Apeksha wasn’t very comfortable in the school environment. She struggled with learning to read and write that were part of the curriculum. She was helped through this tough phase by her mother.</p>
+                    <div class="fadeInUp animated delay-3s mt-15">
+                                        <a   onclick="apeksha()" target="_blank" class="ttm-btn ttm-btn-size-md ttm-btn-shape-square ttm-btn-style-border ttm-btn-color-white mr-3" style="color:#fff; background-color:#bf1f30;">Read more</a>
+                                    </div>
+
+                            </div>
+
+
+
+
+
+
+
+              <div class="ttm-box-col-wrapper col-lg-12 col-md-12 col-sm-12">
+
+                        <div id="raha"> </div>
+
+                                            </div>
+
+
+
+
+
+
+
+
+
+
+
+                                    </div>
+
+
+
+
+
+
+
+
+
+
+                  </div>
+                                    <!-- content-inner end-->
+                                    <!-- content-inner -->
+
+                                    <!-- content-inner end-->
+                                    <!-- content-inner -->
+
+                                    <!-- content-inner end-->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>

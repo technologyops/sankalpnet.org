@@ -11,7 +11,7 @@
                             <!-- section title end -->
                         </div>
                         <div class="col-lg-12 col-xs-12">
-                            <img class="img-fluid lazyload" data-src="images/portfolio/023.jpg" alt="image">
+                            <img class="img-fluid lazyload" src="images/portfolio/023.jpg" alt="image">
                         </div>
                         <div class="col-lg-12 col-xs-12">
                             <div class="pt-20 pl-80 res-991-pl-0 res-991-pt-30 radha">
@@ -39,22 +39,22 @@
 <p>
     <i class="fa fa-chevron-right"></i>
     <b>Sankalp </b>
-    is ranked India’s<b>No.9</b>
-    State level<b>No. 1</b>
+    is ranked India’s<b>&nbsp;No.9</b>
+    State level<b>&nbsp;No. 1</b>
     City level <b>No.1 Special Schools </b>
-    in the Education World India School Rankings 2015.
+    in the Education&nbsp; World India School Rankings 2015.
  
 
 </p>
 <p>
     <i class="fa fa-chevron-right"></i>
     <b>Sankalp, Chennai</b>
-    is ranked,<b style="color:#126cb5;">India's  No. 10 and Tamil Nadu's  No. 1 Special Needs School </b>
-    in the <b>EducationWorld India School Rankings 2016.</b>
+    is ranked,<b style="color:#126cb5;">&nbsp;India's  No. 10 and Tamil Nadu's  No. 1 Special Needs School </b>
+    in the <b>Education World India School Rankings 2016.</b>
 </p>
 <p>
     <i class="fa fa-chevron-right"></i>
-    In The<b>EducationWorld India School Rankings (2019-20) Sankalp</b>
+    In The<b>&nbsp;Education World India School Rankings (2019-20) Sankalp</b>
     was ranked as <b>10th Best Special school in the country and 1st in Tamil Nadu. </b>
 </p>
 <p>
@@ -72,10 +72,10 @@
 </p>
 </div></div>
 <div class="col-lg-6 col-xs-12">
-    <img class="img-fluid lazyload" data-src="images/portfolio/024.jpg" alt="image">
+    <img class="img-fluid lazyload" src="images/portfolio/024.jpg" alt="image">
 </div>
 <div class="col-lg-6 col-xs-12">
-    <img class="img-fluid lazyload" data-src="images/portfolio/025.jpg" alt="image">
+    <img class="img-fluid lazyload" src="images/portfolio/025.jpg" alt="image">
 </div>
 </div>
 <!-- row end -->
