@@ -1,2 +1,0 @@
-# sankalpnet.org
-sankalpnet.org

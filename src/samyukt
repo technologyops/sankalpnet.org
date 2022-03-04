@@ -10,6 +10,21 @@
                             </div>
                             <!-- section title end -->
                         </div>
+
+             <div class="col-lg-6 col-xs-12  ">
+                            <img class="img-fluid lazyload m-1" data-src="images/portfolio/044.jpg" alt="image">
+                        </div>
+            <div class="col-lg-6 col-xs-12 ">
+                            <img class="img-fluid lazyload m-1" data-src="images/portfolio/046.jpg" alt="image">
+                        </div>
+            <div class="col-lg-6 col-xs-12 ">
+                            <img class="img-fluid lazyload m-1" data-src="images/portfolio/045.jpg" alt="image">
+                        </div>
+            <div class="col-lg-6 col-xs-12 ">
+                            <img class="img-fluid lazyload m-1" data-src="images/portfolio/047.jpg" alt="image">
+                        </div>
+
+
                         <div class="col-lg-12 col-xs-12">
                             <div class="pt-15 pl-35 res-991-pl-0 res-991-pt-30">
                                 <!-- featured-icon-box -->
@@ -48,6 +63,22 @@
                                 <h6 style="color:#000; font-size: 16px; padding:5px 0px 5px 5px">Cooking </h6>
                                 <h6 style="color:#000; font-size: 16px; padding:5px 0px 5px 5px">Gardening </h6>
                                 <h6 style="color:#000; font-size: 16px; padding:5px 0px 5px 5px">Sewing </h6>
+                 <h6 style="color:#000;font-size: 16px; padding:5px 0px 5px 5px">Cooking</h6>
+
+ <h6 style="color:#000;font-size: 16px; padding:5px 0px 5px 5px">Gardening</h6>
+
+ <h6 style="color:#000;font-size: 16px; padding:5px 0px 5px 5px">Soap Making</h6>
+
+ <h6 style="color:#000;font-size: 16px; padding:5px 0px 5px 5px">Paper Product Production</h6>
+
+ <h6 style="color:#000;font-size: 16px; padding:5px 0px 5px 5px">Bead Craft</h6>
+
+ <h6 style="color:#000;font-size: 16px; padding:5px 0px 5px 5px">Housekeeping </h6>
+
+ <h6 style="color:#000;font-size: 16px; padding:5px 0px 5px 5px">Flour and Masala Production</h6>
+
+
+
                             </div>
                         </div>
                         <div class="col-lg-6 col-xs-6">

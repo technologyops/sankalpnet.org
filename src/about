@@ -19,7 +19,7 @@
                                 <!-- ttm_single_image-wrapper -->
                                 <div class="border mr_60 res-991-mr-0">
                                     <div class="ttm_single_image-wrapper pt-10 pl-10 pr-10 pb-10">
-                                        <img class="img-fluid lazyload" data-src="/images/portfolio/09.jpg" alt="image">
+                                        <img class="img-fluid lazyload" src="images/portfolio/09.jpg" alt="image">
                                     </div>
                                 </div>
                             </div>
@@ -36,13 +36,15 @@
                                 </p>
                                 <p style="color:#000;">
                                     <i class="fa fa-chevron-right"></i>
-                                    The Open School for children with Specific Learning Disability (SLD) 
+                                    The Open School for children with Specific Learning Disability (SLD)
+
                                 <p>
                                 <p style="color:#000;">
                                     <i class="fa fa-chevron-right"></i>
-                                    The Learning Centre for children with Autism Spectrum Disorder (ASD) which also includes a Vocational Skill Training Unit.
+                                    The Learning Centre and Special Needs School for children with with ASD, SLD and Global Developmental Delays (GDD). This also includes a Vocational Skill Training Unit.
+
                                 </p>
-                                <p style="color:#000;">Sankalp Trust is happy to announce the opening of its Third Centre: The Sankalp Special Needs School for children with ASD, SLD and Global Developmental Delays (GDD)</p>
+                                <p style="color:#000;"></p>
                                 <p style="color:#000;">The Founder Directors Mrs. Lakshmi Krishnakumar, Mrs. Sulata Ajit, and Mrs. Subhashini Rao proactively ensure that the institution has a well-rounded faculty that includes Remedial Teachers, Special Educators, Occupational Therapists, Speech Therapists, Vocational trainers and assisting staff. Profiles of the faculty bear a host of competencies that stem from a wide range of educational backgrounds and experience enabling the institution to cater to the varying challenges and developmental requirements of the children under their care. At Sankalp, the teacher student ratio is 1:3. Sankalp conducts Teacher Training programs in Learning Disability and Autism, with the aim of building a cadre of highly trained teachers.</p>
                                 <p style="color:#000;">
                                     <b>Just as a slow-moving caterpillar transforms into a beautiful butterfly, Sankalp believes that special children, given the right inputs, will transform into bright, confident and self-reliant young adults. Sankalp wants to be the cocoon for these children. A truly different special school.</b>
@@ -67,6 +69,7 @@
                                             <td>
                                                 Director- Cardiology <br>
                                                 Institute of Cardio Vascular diseases<br>Madras Medical Mission
+
                                             </td>
                                             <td>Managing and Founder Trustee</td>
                                         </tr>
@@ -74,6 +77,7 @@
                                             <td>N.R. Krishna Kumar </td>
                                             <td>
                                                 CEO and Domain Director <br>Karminn Consultancy Network (P) Ltd
+
                                             </td>
                                             <td>Founder Trustee</td>
                                         </tr>
@@ -81,6 +85,7 @@
                                             <td>Y.V. Rao    </td>
                                             <td>
                                                 Regional Manager – Retired<br>Syndicate Bank
+
                                             </td>
                                             <td>Founder Trustee</td>
                                         </tr>
@@ -88,22 +93,25 @@
                                             <td>V.K. Raja Krishnan                                                                          </td>
                                             <td>
                                                 Chief Executive <br>Tristar Containers (P) Ltd,
+
                                             </td>
                                             <td>Trustee</td>
                                         </tr>
                                         <tr>
                                             <td>K. Radhakrishnan    </td>
                                             <td>
-                                                CEO (Aligned Business)<br>Partners, 
+                                                CEO (Aligned Business)<br>Partners,
 Mumbai.
+
                                             </td>
                                             <td>Trustee</td>
                                         </tr>
                                         <tr>
                                             <td>Vijay Kumar Vaddadi      </td>
                                             <td>
-                                                Special Representative    <br>Netherland Embassies 
- 
+                                                Special Representative    <br>Netherland Embassies
+
+
                                             </td>
                                             <td>Trustee</td>
                                         </tr>
@@ -114,14 +122,15 @@ Mumbai.
                                         </tr>
                                         <tr>
                                             <td>Subhashini Rao    </td>
-                                            <td>Founder Director – Administration 
+                                            <td>Founder
 </td>
-                                            <td>Founder Director</td>
+                                            <td>Founder  – Emirates Mentor</td>
                                         </tr>
                                         <tr>
                                             <td>Sulata Ajit   </td>
                                             <td>
                                                 Founder Director – Special Education <br>(Autism Spectrum Disorder)
+
                                             </td>
                                             <td>Founder Director</td>
                                         </tr>
@@ -129,8 +138,15 @@ Mumbai.
                                             <td>Lakshmi Krishnakumar  </td>
                                             <td>
                                                 Founder Director - Psychologist, <br>Assessor and Trainer (Specific Learning Disability)
+
                                             </td>
                                             <td>Founder Director</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Sumathi Rajakrishnan  </td>
+                                            <td>Director – Administration
+                                            </td>
+                                            <td>Director</td>
                                         </tr>
                                     </tbody>
                                 </table>
@@ -202,7 +218,7 @@ Mumbai.
                                                             <div class="testimonial-content">
                                                                 <div class="testimonial-avatar">
                                                                     <div class="testimonial-img">
-                                                                        <img class="img-center lazyload" data-src="/images/testimonial/mission.png" alt="testimonial-img">
+                                                                        <img class="img-center lazyload" src="images/testimonial/mission.png" alt="testimonial-img">
                                                                     </div>
                                                                 </div>
                                                                 <h3>Mission </h3>
@@ -221,6 +237,7 @@ Mumbai.
                                                                     <br>
                                                                     <b>*</b>
                                                                     Build lasting relationships with the students, parents and associates.
+
                                                                 </blockquote>
                                                             </div>
                                                         </div>
@@ -232,7 +249,7 @@ Mumbai.
                                                             <div class="testimonial-content">
                                                                 <div class="testimonial-avatar">
                                                                     <div class="testimonial-img">
-                                                                        <img class="img-center lazyload" data-src="/images/testimonial/vision.png" alt="testimonial-img">
+                                                                        <img class="img-center lazyload" src="images/testimonial/vision.png" alt="testimonial-img">
                                                                     </div>
                                                                 </div>
                                                                 <h3>Vision  </h3>
@@ -247,23 +264,24 @@ Mumbai.
                                                             <div class="testimonial-content">
                                                                 <div class="testimonial-avatar">
                                                                     <div class="testimonial-img">
-                                                                        <img class="img-center lazyload" data-src="/images/testimonial/values.png" alt="testimonial-img">
+                                                                        <img class="img-center lazyload" src="images/testimonial/values.png" alt="testimonial-img">
                                                                     </div>
                                                                 </div>
                                                                 <h3>Values  </h3>
                                                                 <blockquote>
                                                                     <b>*</b>
-                                                                    To be sensitive to the concerns of 
+                                                                    To be sensitive to the concerns of
 parents and work together to earn their trust.<br>
                                                                     <br>
                                                                     <b>*</b>
-                                                                    To trust the inner working of every mind, young 
+                                                                    To trust the inner working of every mind, young
 and old.<br>
                                                                     <br>
                                                                     <b>*</b>
-                                                                    To honor each learner with respect and 
-dignity, as each one has a different style 
+                                                                    To honor each learner with respect and
+dignity, as each one has a different style
 and pace of learning..
+
                                                                 </blockquote>
                                                             </div>
                                                         </div>

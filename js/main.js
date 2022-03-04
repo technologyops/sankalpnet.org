@@ -18,6 +18,10 @@
 13. Back to top 
 
  =============== */
+function myFunction2() {
+  document.getElementById("sulataajit").innerHTML = ' <iframe height="1000" id="iframepdf" src="images/sulataajit1.pdf"></iframe>';
+}
+
 function myFunction() {
   document.getElementById("radha").innerHTML = ' <iframe height="1000" id="iframepdf" src="images/myexpericance.pdf"></iframe>';
 }

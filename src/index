@@ -2,17 +2,15 @@
                 <div class="banner-slider slick_slider slick-arrows-style1" data-slick='{"slidesToShow": 1, "slidesToScroll": 1, "arrows":true, "autoplay":true, "centerMode":true, "centerPadding":0, "infinite":true, "initialSlide":2, "responsive": [{"breakpoint":870,"settings":{"slidesToShow": 1}} , {"breakpoint":525,"settings":{"slidesToShow": 1}}]}'>
                     <!-- banner-slide -->
                     <div class="banner-slide">
-                        <img class="img-fluid lazyload" data-src="/images/slides/s1.jpg" alt="slider-image"/>
+                        <img class="img-fluid lazyload" src="images/slides/s1.jpg" alt="slider-image"/>
                         <div class="banner-caption">
                             <div class="info">
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-lg-12">
                                             <div class="banner-text ttm-textcolor-white">
-                                                <div class="mt-15 mb-30 wre">
-                                                    <h2 class="slideInLeft animated slower">We help in </h2>
-                                                    <h2 class="slideInLeft animated slower delay-1s">creating a  </h2>
-                                                    <h2 class="slideInLeft animated slower delay-2s">confident child.</h2>
+                                                <div class="mt-15 mb-30 wre roca">
+                                                    <h2 class="slideInLeft animated slower">We help in creating a confident child. </h2>
                                                 </div>
                                             </div>
                                             <div class="d-flex fadeIn animated slower delay-3s">
@@ -25,44 +23,15 @@
                         </div>
                     </div>
                     <div class="banner-slide">
-                        <img class="img-fluid lazyload" data-src="/images/slides/s2.jpg" alt="slider-image"/>
+                        <img class="img-fluid lazyload" src="images/slides/s3.jpg" alt="slider-image"/>
                         <div class="banner-caption">
                             <div class="info">
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-lg-12">
-                                            <div class="banner-text ttm-textcolor-white">
-                                                <div class="mt-15 mb-30 wre roc2">
-                                                    <h2 class="slideInLeft animated slower">
-                                                        We Honor Each Learner With Respect and Dignity, <br>as Each One Has A Different Style and Pace Of Learning.
-                                                 
-                                                    
-                                                    
-                                                    </h2>
-                                                </div>
-                                            </div>
-                                            <div class="d-flex fadeIn animated slower delay-3s">
-                                                <div class="featured-icon-box icon-align-before-content mt_30 ml-auto"></div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="banner-slide">
-                        <img class="img-fluid lazyload" data-src="/images/slides/s3.jpg" alt="slider-image"/>
-                        <div class="banner-caption">
-                            <div class="info">
-                                <div class="container">
-                                    <div class="row">
-                                        <div class="col-lg-12">
-                                            <div class="banner-text right-content ttm-textcolor-white ">
-                                                <div class="mt-15 mb-30 wre roc ">
-                                                    <h2 class="slideInLeft animated slower">We create a learning</h2>
-                                                    <h2 class="slideInLeft animated slower delay-1s">environment for persons with</h2>
-                                                    <h2 class="slideInLeft animated slower delay-2s">Autism Spectrum Disorder and</h2>
-                                                    <h2 class="slideInLeft animated slower delay-2s">Specific Learning Disability.</h2>
+                                            <div class="banner-text  ttm-textcolor-white ">
+                                                <div class="mt-15 mb-30 wre  rocb">
+                                                    <h2 class="slideInLeft animated slower">We create a learning environment for persons with<br> Autism Spectrum Disorder and Specific Learning Disability.</h2>
                                                 </div>
                                             </div>
                                         </div>
@@ -72,7 +41,7 @@
                         </div>
                     </div>
                     <div class="banner-slide">
-                        <img class="img-fluid lazyload" data-src="/images/slides/s4.jpg" alt="slider-image"/>
+                        <img class="img-fluid lazyload" src="images/slides/s4.jpg" alt="slider-image"/>
                         <div class="banner-caption">
                             <div class="info">
                                 <div class="container">
@@ -82,9 +51,9 @@
                                                 <div class="ttm-textcolor-skincolor slideInLeft animated">
                                                     <h6></h6>
                                                 </div>
-                                                <div class="mt-5 mb-10">
-                                                    <h2 class="slideInLeft animated">We Trust  The Inner Working Of </h2>
-                                                    <h2 class="slideInLeft animated delay-1s">Every mind,  Young And Old .</h2>
+                                                <div class="mt-5 mb-10 roca">
+                                                    <h2 class="slideInLeft animated">We Trust  The Inner Working Of  Every mind,  Young And Old . </h2>
+
                                                 </div>
                                                 <p class="slideInLeft animated delay-2s"></p>
                                             </div>
@@ -106,7 +75,7 @@
                             <div class="col-lg-12">
                                 <div class="mt_60 res-991-mt-15 ttm-bgcolor-red box-shadow">
                                     <div class="row no-gutters ttm-vertical_sep  heads">
-                                        <div class="col-md-4">
+                                        <div class="col-md-6">
                                             <!-- featured-imagebox -->
                                             <div class="featured-icon-box icon-align-top-content text-center style1">
                                                 <div class="featured-icon">
@@ -116,10 +85,10 @@
                                                 </div>
                                                 <div class="featured-content">
                                                     <div class="featured-title">
-                                                        <h5 style="color:#eff1f5;">Sankalp Special Needs school</h5>
+                                                        <h5 style="color:#eff1f5;">Sankalp  Learning Centre & Special Needs School</h5>
                                                     </div>
                                                     <div class="featured-desc">
-                                                        <p style="color:#ffff;">For Children/Persons with Autism Sprectrum Disorder (ASD), Specific Learning Disabilities ( SLD) and Global Development Delay( GDD)</p>
+                                                        <p style="color:#ffff;">For Children/Persons with  Autism Spectrum Disorder (ASD), Specific Learning Disabilities (SLD) and Global Development Delay (GDD)</p>
                                                     </div>
                                                     <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-skincolor" href="specialneeds.html" title="" style="color:#fff;">
                                                         Read more<i class="fa fa-chevron-right"></i>
@@ -128,31 +97,8 @@
                                             </div>
                                             <!-- featured-imagebox end-->
                                         </div>
-                                        <div class="col-md-4">
-                                            <!-- featured-imagebox -->
-                                            <div class="featured-icon-box icon-align-top-content text-center style1">
-                                                <div class="featured-icon">
-                                                    <div class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-size-lg">
-                                                        <i class="flaticon-idea" style="color:#fff;"></i>
-                                                    </div>
-                                                </div>
-                                                <div class="featured-content">
-                                                    <div class="featured-title">
-                                                        <h5 style="color:#eff1f5;">Learning Centre </h5>
-                                                    </div>
-                                                    <div class="featured-desc">
-                                                        <p style="color:#ffff;">
-                                                            For Children/Persons with Autism Spectrum Disorder (ASD)<br>
-                                                        </p>
-                                                    </div>
-                                                    <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-skincolor" href="learningcenter.html" title="" style="color:#fff;">
-                                                        Read more<i class="fa fa-chevron-right"></i>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                            <!-- featured-imagebox end-->
-                                        </div>
-                                        <div class="col-md-4">
+
+                                        <div class="col-md-6">
                                             <!-- featured-imagebox -->
                                             <div class="featured-icon-box icon-align-top-content text-center style1">
                                                 <div class="featured-icon">
@@ -162,11 +108,11 @@
                                                 </div>
                                                 <div class="featured-content">
                                                     <div class="featured-title">
-                                                        <h5 style="color:#eff1f5;">Open School</h5>
+                                                        <h5 style="color:#eff1f5;">Sankalp Open School</h5>
                                                     </div>
                                                     <div class="featured-desc">
                                                         <p style="color:#ffff;">
-                                                            For Children/Persons with Specific Learning Disabilities (SLD)<br>
+                                                            For Children/Persons with   Specific Learning Disabilities (SLD)<br>
                                                         </p>
                                                     </div>
                                                     <a class="ttm-btn btn-inline ttm-btn-size-md ttm-icon-btn-right ttm-btn-color-skincolor" href="ourschool2.html" title="" style="color:#fff;">
@@ -192,7 +138,7 @@
                                 <!-- ttm_single_image-wrapper -->
                                 <div class="border mr_60 res-991-mr-0">
                                     <div class="ttm_single_image-wrapper pt-10 pl-10 pr-10 pb-10">
-                                        <img class="img-fluid lazyload" data-src="/images/portfolio/014.jpg" alt="image">
+                                        <img class="img-fluid lazyload" src="images/portfolio/014.jpg" alt="image">
                                     </div>
                                 </div>
                             </div>
@@ -237,7 +183,7 @@
                                     <!-- ttm_single_image-wrapper -->
                                     <div class="border mr_60 res-991-mr-0">
                                         <div class="ttm_single_image-wrapper pt-10 pl-10 pr-10 pb-10">
-                                            <img class="img-fluid lazyload" data-src="/images/portfolio/002.png" alt="image">
+                                            <img class="img-fluid lazyload" src="images/portfolio/002.png" alt="image">
                                             <div class="fadeInUp animated delay-3s mt-15 text-center">
                                                 <a href="schoolsong.html" class="ttm-btn ttm-btn-size-md ttm-btn-shape-square ttm-btn-style-border ttm-btn-color-white mr-3" style="color:#fff; background-color:#bf1f30;">Read more</a>
                                             </div>
@@ -250,7 +196,7 @@
                                     <!-- ttm_single_image-wrapper -->
                                     <div class="border mr_60 res-991-mr-0">
                                         <div class="ttm_single_image-wrapper pt-10 pl-10 pr-10 pb-10">
-                                            <img class="img-fluid lazyload" data-src="/images/portfolio/001.jpg" alt="image">
+                                            <img class="img-fluid lazyload" src="images/portfolio/001.jpg" alt="image">
                                             <div class="fadeInUp animated delay-3s mt-15 text-center">
                                                 <a href="schoolsong1.html" class="ttm-btn ttm-btn-size-md ttm-btn-shape-square ttm-btn-style-border ttm-btn-color-white mr-3" style="color:#fff; background-color:#bf1f30;">Read more</a>
                                             </div>
@@ -287,7 +233,7 @@
                                 <div class="featured-imagebox featured-imagebox-course">
                                     <div class="ttm-post-thumbnail featured-thumbnail">
                                         <a href="servicestabs.html">
-                                            <img class="img-fluid lazyload" data-src="/images/course/a.png" alt="image">
+                                            <img class="img-fluid lazyload" src="images/course/a.png" alt="image">
                                         </a>
                                     </div>
                                 </div>
@@ -298,7 +244,7 @@
                                 <div class="featured-imagebox featured-imagebox-course">
                                     <div class="ttm-post-thumbnail featured-thumbnail">
                                         <a href="servicestabs.html">
-                                            <img class="img-fluid lazyload" data-src="/images/course/b.png" alt="image">
+                                            <img class="img-fluid lazyload" src="images/course/b.png" alt="image">
                                         </a>
                                     </div>
                                 </div>
@@ -309,7 +255,7 @@
                                 <div class="featured-imagebox featured-imagebox-course">
                                     <div class="ttm-post-thumbnail featured-thumbnail">
                                         <a href="servicestabs.html">
-                                            <img class="img-fluid lazyload" data-src="/images/course/c.png" alt="image">
+                                            <img class="img-fluid lazyload" src="images/course/c.png" alt="image">
                                         </a>
                                     </div>
                                 </div>
@@ -320,7 +266,7 @@
                                 <div class="featured-imagebox featured-imagebox-course">
                                     <div class="ttm-post-thumbnail featured-thumbnail">
                                         <a href="servicestabs.html">
-                                            <img class="img-fluid lazyload" data-src="/images/course/d.png" alt="image">
+                                            <img class="img-fluid lazyload" src="images/course/d.png" alt="image">
                                         </a>
                                     </div>
                                 </div>
@@ -331,7 +277,7 @@
                                 <div class="featured-imagebox featured-imagebox-course">
                                     <div class="ttm-post-thumbnail featured-thumbnail">
                                         <a href="servicestabs.html">
-                                            <img class="img-fluid lazyload" data-src="/images/course/e.png" alt="image">
+                                            <img class="img-fluid lazyload" src="images/course/e.png" alt="image">
                                         </a>
                                     </div>
                                 </div>
@@ -402,7 +348,7 @@
                                                             <div class="testimonial-content">
                                                                 <div class="testimonial-avatar">
                                                                     <div class="testimonial-img">
-                                                                        <img class="img-center lazyload" data-src="/images/testimonial/mission.png" alt="testimonial-img">
+                                                                        <img class="img-center lazyload" src="images/testimonial/mission.png" alt="testimonial-img">
                                                                     </div>
                                                                 </div>
                                                                 <h3>Mission </h3>
@@ -421,8 +367,6 @@
                                                                     <br>
                                                                     <b>*</b>
                                                                     Build lasting relationships with the students, parents and associates.
-                                                                
-                                                                
                                                                 </blockquote>
                                                             </div>
                                                         </div>
@@ -434,7 +378,7 @@
                                                             <div class="testimonial-content">
                                                                 <div class="testimonial-avatar">
                                                                     <div class="testimonial-img">
-                                                                        <img class="img-center lazyload" data-src="/images/testimonial/vision.png" alt="testimonial-img">
+                                                                        <img class="img-center lazyload" src="images/testimonial/vision.png" alt="testimonial-img">
                                                                     </div>
                                                                 </div>
                                                                 <h3>Vision  </h3>
@@ -449,25 +393,19 @@
                                                             <div class="testimonial-content">
                                                                 <div class="testimonial-avatar">
                                                                     <div class="testimonial-img">
-                                                                        <img class="img-center lazyload" data-src="/images/testimonial/values.png" alt="testimonial-img">
+                                                                        <img class="img-center lazyload" src="images/testimonial/values.png" alt="testimonial-img">
                                                                     </div>
                                                                 </div>
                                                                 <h3>Values  </h3>
                                                                 <blockquote>
                                                                     <b>*</b>
-                                                                    To be sensitive to the concerns of 
-parents and work together to earn their trust.<br>
+                                                                    To be sensitive to the concerns of parents and work together to earn their trust.<br>
                                                                     <br>
                                                                     <b>*</b>
-                                                                    To trust the inner working of every mind, young 
-and old.<br>
+                                                                    To trust the inner working of every mind, young and old.<br>
                                                                     <br>
                                                                     <b>*</b>
-                                                                    To honor each learner with respect and 
-dignity, as each one has a different style 
-and pace of learning..
-                                                                
-                                                                
+                                                                    To honor each learner with respect and dignity, as each one has a different style and pace of learning..
                                                                 </blockquote>
                                                             </div>
                                                         </div>
@@ -510,7 +448,7 @@ and pace of learning..
                                 <!-- featured-imagebox-post -->
                                 <div class="featured-imagebox featured-imagebox-post style1">
                                     <div class="ttm-post-thumbnail featured-thumbnail">
-                                        <img class="img-fluid lazyload" data-src="/images/blog/2.jpg" alt="image">
+                                        <img class="img-fluid lazyload" src="images/blog/2.jpg" alt="image">
                                     </div>
                                 </div>
                                 <!-- featured-imagebox-post end-->
@@ -519,7 +457,7 @@ and pace of learning..
                                 <!-- featured-imagebox-post -->
                                 <div class="featured-imagebox featured-imagebox-post style1">
                                     <div class="ttm-post-thumbnail featured-thumbnail">
-                                        <img class="img-fluid lazyload" data-src="/images/blog/3.jpg" alt="image">
+                                        <img class="img-fluid lazyload" src="images/blog/3.jpg" alt="image">
                                     </div>
                                 </div>
                                 <!-- featured-imagebox-post end-->
@@ -528,7 +466,7 @@ and pace of learning..
                                 <!-- featured-imagebox-post -->
                                 <div class="featured-imagebox featured-imagebox-post style1">
                                     <div class="ttm-post-thumbnail featured-thumbnail">
-                                        <img class="img-fluid lazyload" data-src="/images/blog/4.jpg" alt="image">
+                                        <img class="img-fluid lazyload" src="images/blog/4.jpg" alt="image">
                                     </div>
                                 </div>
                                 <!-- featured-imagebox-post end-->
@@ -537,7 +475,7 @@ and pace of learning..
                                 <!-- featured-imagebox-post -->
                                 <div class="featured-imagebox featured-imagebox-post style1">
                                     <div class="ttm-post-thumbnail featured-thumbnail">
-                                        <img class="img-fluid lazyload" data-src="/images/blog/5.jpg" alt="image">
+                                        <img class="img-fluid lazyload" src="images/blog/5.jpg" alt="image">
                                     </div>
                                 </div>
                                 <!-- featured-imagebox-post end-->
@@ -550,4 +488,3 @@ and pace of learning..
                 <!--cta-section end-->
             </div>
             <!--site-main end-->
-
